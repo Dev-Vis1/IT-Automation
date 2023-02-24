@@ -1,0 +1,6 @@
+functions and keywords
+
+Function: Pieces of code that performs a unit of work.
+Keywords: Reserved words that are used to construct instructions. core part of the language and can only be used in a specific way.
+
+keywords and 
